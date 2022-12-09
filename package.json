@@ -1,0 +1,11 @@
+{
+  "name": "mern_passport_app_fullstack",
+  "version": "1.0.0",
+  "description": "App to create private and public stories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kwabena Agyeman",
+  "license": "MIT"
+}
